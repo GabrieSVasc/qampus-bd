@@ -9,10 +9,10 @@
 Projeto para implementação de um sistema web com foco em fórum acadêmico, o sistema tem como objetivo oferecer uma plataforma onde alunos possam, de forma rápida e prática, publicar dúvidas, responder perguntas e compartilhar conhecimento. Além disso, professores poderão utilizar o ambiente para esclarecer questões, divulgar eventos, projetos e comunicados acadêmicos.
 
 ## Informações técnicas do projeto
-SGBD: MYSQL
-Usuário: admin
-Senha: senha123
-Nome do banco: qampus
+SGBD: MYSQL\
+Usuário: admin\
+Senha: senha123\
+Nome do banco: qampus\
 Porta: 3306
 
 ## Dicionário de dados
