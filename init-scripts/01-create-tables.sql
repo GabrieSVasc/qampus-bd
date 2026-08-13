@@ -51,7 +51,7 @@ CREATE TABLE IF NOT EXISTS Comentario(
 
 CREATE TABLE IF NOT EXISTS Voto(
   id INT PRIMARY KEY Not Null,
-  tipo CHAR(1) Not Null,
+  tipo INT Not Null,
   idUsuario INT Not Null,
   idPost INT Not Null,
 
